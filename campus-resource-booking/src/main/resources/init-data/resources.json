@@ -1,0 +1,938 @@
+[
+  {
+    "id": 1,
+    "name": "博学北楼(新四)101",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 2,
+    "name": "博学北楼(新四)102",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 3,
+    "name": "博学北楼(新四)103",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 4,
+    "name": "博学北楼(新四)104",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 5,
+    "name": "博学北楼(新四)105",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 6,
+    "name": "博学北楼(新四)106",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 7,
+    "name": "博学北楼(新四)107",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 8,
+    "name": "博学北楼(新四)108",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 9,
+    "name": "博学北楼(新四)109",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 10,
+    "name": "博学北楼(新四)110",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 13,
+    "name": "博学北楼(新四)202",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 14,
+    "name": "博学北楼(新四)203",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 15,
+    "name": "博学北楼(新四)204",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 16,
+    "name": "博学北楼(新四)205",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 17,
+    "name": "博学北楼(新四)206",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 18,
+    "name": "博学北楼(新四)207",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 19,
+    "name": "博学北楼(新四)208",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 20,
+    "name": "博学北楼(新四)209",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 21,
+    "name": "博学北楼(新四)210",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 22,
+    "name": "博学北楼(新四)111",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 23,
+    "name": "博学北楼(新四)201",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 24,
+    "name": "博学北楼(新四)211",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 25,
+    "name": "博学北楼(新四)212",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 26,
+    "name": "博学北楼(新四)213",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 27,
+    "name": "博学北楼(新四)301",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 28,
+    "name": "博学北楼(新四)302",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 29,
+    "name": "博学北楼(新四)303",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 30,
+    "name": "博学北楼(新四)304",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 31,
+    "name": "博学北楼(新四)305",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 32,
+    "name": "博学北楼(新四)306",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 33,
+    "name": "博学北楼(新四)307",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 34,
+    "name": "博学北楼(新四)308",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 35,
+    "name": "博学北楼(新四)309",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 36,
+    "name": "博学北楼(新四)310",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 37,
+    "name": "博学北楼(新四)311",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 38,
+    "name": "博学北楼(新四)312",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 39,
+    "name": "博学北楼(新四)401",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 40,
+    "name": "博学北楼(新四)402",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 41,
+    "name": "博学北楼(新四)403",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 42,
+    "name": "博学北楼(新四)404",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 43,
+    "name": "博学北楼(新四)405",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 44,
+    "name": "博学北楼(新四)406",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 45,
+    "name": "博学北楼(新四)407",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 46,
+    "name": "博学北楼(新四)408",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 47,
+    "name": "博学北楼(新四)409",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 48,
+    "name": "博学北楼(新四)501",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 49,
+    "name": "博学北楼(新四)502",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 50,
+    "name": "博学北楼(新四)503",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 51,
+    "name": "博学北楼(新四)504",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 52,
+    "name": "博学北楼(新四)505",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 53,
+    "name": "博学北楼(新四)506",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 54,
+    "name": "博学北楼(新四)507",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 55,
+    "name": "博学北楼(新四)508",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 56,
+    "name": "博学北楼(新四)509",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 57,
+    "name": "博学北楼(新四)510",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 58,
+    "name": "博学北楼(新四)511",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 59,
+    "name": "博学北楼(新四)512",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 60,
+    "name": "博学北楼(新四)601",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 61,
+    "name": "博学北楼(新四)602",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 62,
+    "name": "博学北楼(新四)603",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 63,
+    "name": "博学北楼(新四)604",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 64,
+    "name": "博学北楼(新四)405",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 65,
+    "name": "博学北楼(新四)406",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 66,
+    "name": "博学北楼(新四)407",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 67,
+    "name": "博学北楼(新四)408",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 68,
+    "name": "博学北楼(新四)409",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 69,
+    "name": "博学北楼(新四)501",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 70,
+    "name": "博学北楼(新四)502",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 71,
+    "name": "博学北楼(新四)503",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 72,
+    "name": "博学北楼(新四)504",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 73,
+    "name": "博学北楼(新四)505",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 74,
+    "name": "博学北楼(新四)506",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 75,
+    "name": "博学北楼(新四)507",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 76,
+    "name": "博学北楼(新四)508",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 77,
+    "name": "博学北楼(新四)509",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 78,
+    "name": "博学北楼(新四)510",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 79,
+    "name": "博学北楼(新四)511",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 80,
+    "name": "博学北楼(新四)512",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 81,
+    "name": "博学北楼(新四)601",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 82,
+    "name": "博学北楼(新四)602",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 83,
+    "name": "博学北楼(新四)603",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 84,
+    "name": "博学北楼(新四)604",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 85,
+    "name": "博学北楼(新四)410",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 86,
+    "name": "博学北楼(新四)411",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 87,
+    "name": "博学北楼(新四)412",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 88,
+    "name": "博学北楼(新四)413",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 89,
+    "name": "博学北楼(新四)409",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 90,
+    "name": "博学北楼(新四)501",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 91,
+    "name": "博学北楼(新四)502",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 92,
+    "name": "博学北楼(新四)503",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 93,
+    "name": "博学北楼(新四)504",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 94,
+    "name": "博学北楼(新四)505",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 95,
+    "name": "博学北楼(新四)506",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 96,
+    "name": "博学北楼(新四)507",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 97,
+    "name": "博学北楼(新四)508",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 98,
+    "name": "博学北楼(新四)509",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 99,
+    "name": "博学北楼(新四)510",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 100,
+    "name": "博学北楼(新四)511",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 101,
+    "name": "博学北楼(新四)512",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 102,
+    "name": "博学北楼(新四)601",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 103,
+    "name": "博学北楼(新四)602",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 104,
+    "name": "博学北楼(新四)603",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 105,
+    "name": "博学北楼(新四)604",
+    "type": "ROOM",
+    "capacity": 30,
+    "version": null,
+    "available": 1,
+    "credit_required": 20
+  },
+  {
+    "id": 106,
+    "name": "博学主楼(新一)101",
+    "type": "ROOM",
+    "capacity": 150,
+    "version": 0,
+    "available": 1,
+    "credit_required": 20
+  }
+]
