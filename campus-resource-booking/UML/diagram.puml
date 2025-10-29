@@ -1,0 +1,29 @@
+@startuml CampusResourceBooking
+title 用户登录流程顺序图 (User Login Sequence Diagram)
+
+actor User as U
+participant "前端登录页\n(LoginForm.jsx)" as UI
+participant "AuthController" as C
+participant "AuthService" as S
+participant "UserAccountRepository" as Repo
+
+== 用户输入登录信息 ==
+U -> UI : 输入校园卡号和密码
+UI -> C : POST /api/auth/login\n{campusCard, password}
+
+== 后端认证流程 ==
+C -> S : login(campusCard, password)
+S -> Repo : findByCampusCard(campusCard)
+Repo --> S : UserAccount or null
+
+alt 用户存在且密码正确
+  S --> C : 返回用户信息 (UserAccount)
+  C --> UI : HTTP 200 OK + JSON
+  UI --> U : 显示“登录成功”，跳转主页
+else 用户不存在或密码错误
+  S --> C : 抛出 BizException("登录失败")
+  C --> UI : HTTP 401 Unauthorized
+  UI --> U : 显示“账号或密码错误”
+end
+
+@enduml

@@ -22,9 +22,9 @@ public class DataInitializer {
     @Bean
     public CommandLineRunner initDatabase(UserAccountRepository userRepo, ResourceRepo resourceRepo) {
         return args -> {
-            // 1️⃣ 确保自动建表（依赖 JPA ddl-auto）
+            // 1⃣ 确保自动建表（依赖 JPA ddl-auto）
 
-            // 2️⃣ 导入 resources.json 数据（仅当资源表为空时）
+            // 2⃣ 导入 resources.json 数据（仅当资源表为空时）
             if (resourceRepo.count() == 0) {
                 try (InputStream is = getClass().getResourceAsStream("/init-data/resources.json")) {
                     ObjectMapper mapper = new ObjectMapper();
@@ -36,7 +36,7 @@ public class DataInitializer {
                 }
             }
 
-            // 3️⃣ 创建默认管理员
+            // 3⃣ 创建默认管理员
             boolean adminExists = userRepo.findAll().stream()
                     .anyMatch(u -> "ADMIN".equalsIgnoreCase(u.getRole()));
 
