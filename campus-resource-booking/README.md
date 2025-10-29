@@ -140,15 +140,16 @@ server:
 
 系统 UML 图位于：
 ```
-docs/uml/
+UML
 ```
 
 包含：
-- 用例图：`usecase.puml`
-- 顺序图：`sequence_booking.puml`
-- 类图：`class_model.puml`
+- 用例图
+- 顺序图
+- 类图
+- 包图
+- ER图
 
-可使用 VS Code + PlantUML 插件或 [PlantText](https://www.planttext.com/) 在线查看。
 
 ---
 
