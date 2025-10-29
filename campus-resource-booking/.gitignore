@@ -1,0 +1,49 @@
+# ------------------------------
+# IntelliJ IDEA
+# ------------------------------
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# ------------------------------
+# Java / Maven (后端)
+# ------------------------------
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.zip
+*.tar.gz
+*.rar
+hs_err_pid*
+replay_pid*
+
+# ------------------------------
+# Node.js / React (前端)
+# ------------------------------
+node_modules/
+dist/
+build/
+.cache/
+.vite/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# ------------------------------
+# Node 环境安装目录
+# ------------------------------
+node/
+node.exe
+npm
+npm.cmd
+npx
+npx.cmd
+
+# ------------------------------
+# 系统文件
+# ------------------------------
+.DS_Store
+Thumbs.db
